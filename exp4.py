@@ -18,9 +18,9 @@ B2 = np.array([[1,1,0],[0,0,1],[1,5,2]])
 print("The specifeid basis fdor the domain space is ", B2)
 
 
-v1 = T(-1,1,0)
-v2 = T(5,-1,2)
-v3 = T(1,2,1)
+w1 = T(-1,1,0)
+w2 = T(5,-1,2)
+w3 = T(1,2,1)
 
 print("Evaluating T at the vectors of basis B1 : ",v1,v2,v3)
 
