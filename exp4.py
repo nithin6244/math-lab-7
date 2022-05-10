@@ -3,6 +3,8 @@
 
 # In[6]:
 
+#Finding The matrix of Teh linear transformation
+
 
 import numpy as np
 from numpy import linalg as la
@@ -32,6 +34,8 @@ print("The matrix of the linear transformation id : \n",M.T)
 
 
 # In[4]:
+
+#Finding linear transformation when matrix and the basis are given :
 
 
 from sympy import symbols, Matrix,solve
